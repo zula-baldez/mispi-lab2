@@ -11,4 +11,8 @@ public class G extends C {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public double ad() {
+        return 11;
+    }
 }
