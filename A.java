@@ -11,12 +11,4 @@ public class A {
     public void aa() {
         return;
     }
-
-    public double ee() {
-        return 500.100;
-    }
-
-    public Object rr() {
-        return null;
-    }
 }
