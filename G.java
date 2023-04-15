@@ -12,11 +12,47 @@ public class G extends C {
         return java.lang.Math.PI;
     }
 
+    public byte oo() {
+        return 2;
+    }
+
     public double ad() {
         return 11;
     }
 
-    public byte oo() {
-        return 1;
+    public Object rr() {
+        return null;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public long ac() {
+        return 111;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public int ae() {
+        return 8;
     }
 }
