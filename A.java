@@ -35,4 +35,8 @@ public class A {
     public double ad() {
         return 12.12;
     }
+
+    public long ac() {
+        return 333;
+    }
 }

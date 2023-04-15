@@ -35,4 +35,8 @@ public class C extends A {
     public double ad() {
         return 11.09;
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }
