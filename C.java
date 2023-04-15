@@ -39,4 +39,8 @@ public class C extends A {
     public void bb() {
         System.out.println(42);
     }
+
+    public byte oo() {
+        return 4;
+    }
 }

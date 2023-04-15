@@ -39,4 +39,8 @@ public class A {
     public long ac() {
         return 333;
     }
+
+    public void ab() {
+        System.out.println();
+    }
 }
