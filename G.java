@@ -15,4 +15,8 @@ public class G extends C {
     public double ad() {
         return 11;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }
