@@ -11,4 +11,8 @@ public class C extends A {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
