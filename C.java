@@ -23,4 +23,8 @@ public class C extends A {
     public int cc() {
         return 39;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
