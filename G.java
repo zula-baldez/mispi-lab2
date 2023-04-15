@@ -19,4 +19,8 @@ public class G extends C {
     public byte oo() {
         return 1;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }

@@ -19,4 +19,8 @@ public class C extends A {
     public long ac() {
         return 222;
     }
+
+    public int cc() {
+        return 39;
+    }
 }
