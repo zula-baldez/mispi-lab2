@@ -23,4 +23,12 @@ public class G extends C {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public long ac() {
+        return 111;
+    }
+
+    public long dd() {
+        return 99999;
+    }
 }
