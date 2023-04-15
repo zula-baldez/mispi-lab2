@@ -1,0 +1,14 @@
+public class A {
+
+    private byte k = 1;
+
+    private byte f = 1;
+
+    public String kk() {
+        return "Yes";
+    }
+
+    public void aa() {
+        return;
+    }
+}
