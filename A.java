@@ -27,4 +27,8 @@ public class A {
     public Object pp() {
         return this;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }

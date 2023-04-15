@@ -27,4 +27,8 @@ public class G extends C {
     public float ff() {
         return 3.14;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
