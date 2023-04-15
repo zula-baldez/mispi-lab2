@@ -12,14 +12,6 @@ public class C extends A {
         return new java.util.Random();
     }
 
-    public java.util.Random mm() {
-        return new java.util.Random();
-    }
-
-    public long ac() {
-        return 222;
-    }
-
     public int cc() {
         return 39;
     }
@@ -30,5 +22,33 @@ public class C extends A {
 
     public void bb() {
         System.out.println(getClass().getName());
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public long ac() {
+        return 222;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
     }
 }

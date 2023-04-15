@@ -12,6 +12,14 @@ public class A extends null {
         return;
     }
 
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public Object pp() {
+        return this;
+    }
+
     public double ee() {
         return 500.100;
     }
@@ -20,15 +28,31 @@ public class A extends null {
         return null;
     }
 
-    public int hh() {
-        return new java.util.Random().nextInt();
-    }
-
     public java.lang.Class qq() {
         return getClass();
     }
 
-    public Object pp() {
-        return this;
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }

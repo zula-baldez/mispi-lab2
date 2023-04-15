@@ -12,10 +12,6 @@ public class G extends C {
         return java.lang.Math.PI;
     }
 
-    public double ad() {
-        return 11;
-    }
-
     public byte oo() {
         return 1;
     }
@@ -30,5 +26,25 @@ public class G extends C {
 
     public long dd() {
         return 99999;
+    }
+
+    public double ad() {
+        return 11;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
     }
 }
