@@ -11,4 +11,16 @@ public class G extends C {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public double ad() {
+        return 11;
+    }
+
+    public byte oo() {
+        return 1;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
