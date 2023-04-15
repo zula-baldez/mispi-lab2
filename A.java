@@ -31,4 +31,8 @@ public class A {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public double ad() {
+        return 12.12;
+    }
 }

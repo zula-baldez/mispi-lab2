@@ -31,4 +31,8 @@ public class C extends A {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public double ad() {
+        return 11.09;
+    }
 }

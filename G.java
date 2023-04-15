@@ -31,4 +31,8 @@ public class G extends C {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
